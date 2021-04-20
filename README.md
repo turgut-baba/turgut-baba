@@ -6,7 +6,7 @@
 
 I also know:
 
-   For python():
+   For python: 
        django,
        tensorflow(i can also make neural networks from pure python),
        tkinter,
@@ -14,17 +14,17 @@ I also know:
        numpy,
        socket programming (beginer)
        
-   For c++():
+   For c++:
       opengl,
       python API,
       MySql API,
       assembly (beginer)
-      
-   For java():
+     
+   For java:
       kotlin,
       android studio
       
-   For html/css():
+   For html/css:
       bootstrap
       
    Additional knowladge:
@@ -34,15 +34,12 @@ I also know:
       using the print statement for debugging.
       
       
-Code editors i use: windows
-{
-    python* pycharm;
-    c++ visual studio and code::blocks;
-    java& intellij;
-    html/css/php atom;
-    arduino[] arduino_ide = {"visual micro"};
-    MySql* const MySqlWorkbench = new MySql;
-};
+Code editors i use (on windows):
+    python: pycharm. C++: visual studio and code::blocks.
+    java: intellij.
+    html/css/php: atom.
+    arduino development: visual micro, sometimes arduino_ide.
+    MySql: MySql Workbench.
 
 //i also like to create robots
 
