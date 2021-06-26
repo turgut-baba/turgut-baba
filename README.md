@@ -12,20 +12,32 @@ I also know:
        tkinter,
        pandas,
        numpy,
-       socket programming (beginer)
-       
+       socket programming (for making servers mostly)
+   For js:
+       vanilla js (for websites)
+       react native (for mobile apps)
+       expo
    For c++:
       opengl,
       python API,
       MySql API,
+      wxWidgets,
       assembly (beginer)
      
    For java:
       kotlin,
+      swing,
+      gradle,
       android studio
       
    For html/css:
       bootstrap
+      css animations
+   For hobby:
+      Arduino,
+      Esp-wroom-32,
+      6502 CPU,
+      electronic componenets
       
    Additional knowladge:
       xml,
@@ -35,9 +47,10 @@ I also know:
       
       
 Code editors i use (on windows):
-    python: pycharm. C++: visual studio and code::blocks.
+    python: pycharm. 
+    C++: visual studio 2019.
     java: intellij.
-    html/css/php: atom.
+    html/css/php: atom/pycharm.
     arduino development: visual micro, sometimes arduino_ide.
     MySql: MySql Workbench.
 
