@@ -5,21 +5,20 @@
 - 📫 How to reach me: turgutbababalim@gmail.com
 
 I also know:
-{
-"For python" : 
-"django",
-       "tensorflow(i can also make neural networks from pure python)",
-       "tkinter",
-       "pandas",
-       "numpy",
-       "socket programming (for making servers mostly)"
-}
-   
+
+For python : 
+      django,
+       tensorflow(i can also make neural networks from pure python),
+       tkinter,
+       pandas,
+       numpy,
+       socket programming (for making servers mostly)
        
    For js:
        vanilla js (for websites)
        react native (for mobile apps)
        expo
+       
    For c++:
       opengl,
       python API,
@@ -36,6 +35,7 @@ I also know:
    For html/css:
       bootstrap
       css animations
+      
    For hobby:
       Arduino,
       Esp-wroom-32,
