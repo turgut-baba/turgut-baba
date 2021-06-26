@@ -5,14 +5,17 @@
 - 📫 How to reach me: turgutbababalim@gmail.com
 
 I also know:
-
-   For python: 
-       django,
-       tensorflow(i can also make neural networks from pure python),
-       tkinter,
-       pandas,
-       numpy,
-       socket programming (for making servers mostly)
+{
+"For python" : 
+"django",
+       "tensorflow(i can also make neural networks from pure python)",
+       "tkinter",
+       "pandas",
+       "numpy",
+       "socket programming (for making servers mostly)"
+}
+   
+       
    For js:
        vanilla js (for websites)
        react native (for mobile apps)
