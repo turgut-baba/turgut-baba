@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @turgut-baba
-- 👀 I’m interested in C++, Python, MySql, php, java and html/css
+- 👀 I’m interested in C++, Python, MySql, java,php,C#, react-native and html/css
 - 🌱 I’m currently learning more about Machine Learning and Game development
 - 💞️ I’m looking to collaborate on Artificial Intelligent, Game Dev., Web development, GUI programming.
 - 📫 How to reach me: turgutbababalim@gmail.com
