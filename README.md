@@ -27,14 +27,11 @@ For python :
       assembly (beginer)
      
    For java:
-      kotlin,
       swing,
-      gradle,
-      android studio
+      gradle
       
    For html/css:
       bootstrap
-      css animations
       
    For hobby:
       Arduino,
@@ -52,8 +49,9 @@ For python :
 Code editors i use (on windows):
     python: pycharm. 
     C++: visual studio 2019.
+    js/react-native : vs code.
     java: intellij.
-    html/css/php: atom/pycharm.
+    html/css/php: atom.
     arduino development: visual micro, sometimes arduino_ide.
     MySql: MySql Workbench.
 
