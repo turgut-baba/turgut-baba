@@ -10,7 +10,7 @@ For python :
        django,
        
    For js:
-       JQuery
+       JQuery,
        React & vite
        
    For C++:
@@ -29,6 +29,6 @@ For python :
       6502 CPU,
       electronic componenets
 
-//i also like to create robots
+// I also like to create robots
 
-#can make python extentions with c++
+# can make python extentions with c++
